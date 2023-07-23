@@ -1,5 +1,9 @@
-# Spicetify-RPC (In Development)
+# Spicetify-RPC
 Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
+
+## Todo
+- [X] Finish Development
+- [ ] Integrate with spicetify
 
 ## Screenshots
 
