@@ -1,5 +1,5 @@
-# Spicetify-RPC (In Devolepment)
-Discord Rich presence for [Spicetify]() written in c#
+# Spicetify-RPC (In Development)
+Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
 
 ## Screenshots
 
