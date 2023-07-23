@@ -15,9 +15,14 @@ Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
 
 [Download from releases](https://github.com/v4ish/Spicetify-RPC/releases/latest)
 
-## Support Server
+## FAQ
+
 
 #### [Discord](https://discord.gg/37uTqAhkms)
+
+#### How much memory does it use?
+
+Uses 10MB of memory
 
 ## Development
 ``` bash
