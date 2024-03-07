@@ -7,7 +7,7 @@ Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
 
 ## Screenshots
 
-<img src="https://cdn.discordapp.com/attachments/926176591736889385/1132658091889012797/image.png" alt="logo" width="300"/>
+<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/spice.png" alt="logo" width="300"/>
 
 ## Installation
 
