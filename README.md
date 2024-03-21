@@ -22,9 +22,9 @@ Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
 
 #### [Discord](https://r.dsc.gg/v4ish)
 
-#### How much memory does it use?
+#### Does it work with Spotify
 
-Uses 10MB of memory
+Yes, if a spotify instance is running, it wil work
 
 ## Development
 ``` bash
