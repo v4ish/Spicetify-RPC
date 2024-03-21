@@ -33,5 +33,6 @@ Yes, if a spotify instance is running, it wil work
 ## Development
 ``` bash
 Application ID: "1132652587187982406"
-Large_image: "main-logo"
+Large_image: "main"
+Small_image: "main-logo"
 ```
