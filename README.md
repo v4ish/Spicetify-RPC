@@ -6,6 +6,7 @@ Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
 - [x] Integrate with spicetify
 - [x] Podcast Support
 - [x] Show Presence on idle
+- [ ] Rich Image support
 
 ## Screenshots
 
