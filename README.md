@@ -29,7 +29,7 @@ Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
 
 Yes, if a spotify instance is running, it wil work
 
-#### How much memory
+#### How much memory does it takes?
 
 16MB
 
