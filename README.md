@@ -19,7 +19,7 @@ Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
 ## FAQ
 
 
-#### [Discord](https://discord.gg/37uTqAhkms)
+#### [Discord](https://r.dsc.gg/v4ish)
 
 #### How much memory does it use?
 
