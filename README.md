@@ -3,7 +3,8 @@ Discord Rich presence for [Spicetify](https://spicetify.app) written in c#
 
 ## Todo
 - [X] Finish Development
-- [ ] Integrate with spicetify
+- [x] Integrate with spicetify
+- [ ] Home page thingy(check code)
 
 ## Screenshots
 
